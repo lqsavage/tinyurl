@@ -21,14 +21,11 @@
 	</properties>
 
 	<dependencies>
-
-	
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 			<version>${h2db.version}</version>
 		</dependency>
-
 
 		<dependency>
 			<groupId>org.coody.framework</groupId>

@@ -1,0 +1,14 @@
+[INFO 09:24:11 sys_pool_1078694789](?:?)  ：引用模式>>org.coody.framework.minicat.socket.NioService
+[INFO 09:24:11 sys_pool_1149319664](CoreApp.java:77)  ：扫描类>>数量:337,耗时:687
+[INFO 09:24:11 sys_pool_1078694789](?:?)  ：注册Servlet>>org.coody.framework.minicat.servlet.ResourceServlet>>/html/**/*
+[INFO 09:24:11 sys_pool_1078694789](?:?)  ：注册Servlet>>org.coody.reduce.common.servlet.ReduceServlet>>/**/*
+[INFO 09:24:11 pool-3-thread-1](CoreApp.java:105)  ：org.coody.framework.core.loader.AnnotationLoader >>加载耗时:28ms
+[INFO 09:24:11 pool-5-thread-1](CoreApp.java:105)  ：org.coody.framework.core.loader.AspectLoader >>加载耗时:54ms
+[INFO 09:24:12 pool-7-thread-2](CoreApp.java:105)  ：org.coody.framework.core.loader.BeanLoader >>加载耗时:46ms
+[INFO 09:24:12 pool-7-thread-1](CoreApp.java:105)  ：org.coody.framework.core.loader.CustomBeanLoader >>加载耗时:178ms
+[INFO 09:24:12 pool-11-thread-1](CoreApp.java:105)  ：org.coody.framework.core.loader.FieldLoader >>加载耗时:6ms
+[INFO 09:24:12 pool-13-thread-2](CoreApp.java:105)  ：org.coody.framework.task.loader.TaskLoader >>加载耗时:3ms
+[INFO 09:24:12 pool-13-thread-1](CoreApp.java:105)  ：org.coody.framework.minicat.web.loader.WebAppLoader >>加载耗时:7ms
+[INFO 09:24:12 pool-14-thread-1](CoreApp.java:105)  ：org.coody.framework.core.loader.InitRunLoader >>加载耗时:388ms
+[INFO 09:24:12 sys_pool_1149319664](CoreApp.java:116)  ：Coody Framework >>加载耗时:668ms
+[INFO 09:24:12 sys_pool_1149319664](MinicatApp.java:102)  ：MiniCat:80启动完成,耗时>>1751ms
